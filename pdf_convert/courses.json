@@ -1,0 +1,485 @@
+﻿[
+	{
+		"Course Name": "Computational Data Analysis",
+		"Code": "ES1101",
+		"Scheme & Credits": "(10s 2 0) 10",
+		"Faculty": "(Sonal, Umesh Gupta), (Richa Sharma, Santosh Verma)"
+	},
+	{
+		"Course Name": "Fundamentals of Automation Engineering-I",
+		"Code": "ES1111",
+		"Scheme & Credits": "(3s 0 0 ) 3",
+		"Faculty": "Devika Kataria, Gustavo Sanchez"
+	},
+	{
+		"Course Name": "Design and Prototyping-I",
+		"Code": "ES1110",
+		"Scheme & Credits": "(3s 0 0 ) 3",
+		"Faculty": "(Deepika,Ravi)/(Tanmoy,Bhargav) + Dhruv Saxena(IoD)"
+	},
+	{
+		"Course Name": "Scientific Perspectives",
+		"Code": "AS1102",
+		"Scheme & Credits": "(2 0 0) 2",
+		"Faculty": "Vipin Jain, Shahnawaz Khan"
+	},
+	{
+		"Course Name": "Fundamentals of Communication",
+		"Code": "CC1101",
+		"Scheme & Credits": "(2 0 1) 2",
+		"Faculty": "Vijaylakshmi"
+	},
+	{
+		"Course Name": "Mathematics",
+		"Code": "AS1104",
+		"Scheme & Credits": "(3 1 0) 4",
+		"Faculty": "Sandeep Kr Singh"
+	},
+	{
+		"Course Name": "Problem Solving with Python",
+		"Code": "CS1115",
+		"Scheme & Credits": "(3 0 4) 5",
+		"Faculty": "Amit Sinhal"
+	},
+	{
+		"Course Name": "Database Management and Applications",
+		"Code": "CS1116",
+		"Scheme & Credits": "(3 0 4) 5",
+		"Faculty": "S Taruna"
+	},
+	{
+		"Course Name": "Computer Organisation and Systems",
+		"Code": "CS1117",
+		"Scheme & Credits": "(3 0 2) 4",
+		"Faculty": "Divanshu Jain "
+	},
+	{
+		"Course Name": "Data Structures",
+		"Code": "CS1102",
+		"Scheme & Credits": "(3 0 2) 4",
+		"Faculty": "Devendra Bhavsar"
+	},
+	{
+		"Course Name": "Theoretical Foundation of Computer Science",
+		"Code": "CS1103",
+		"Scheme & Credits": "(3 1 0) 4",
+		"Faculty": "Suman Saha "
+	},
+	{
+		"Course Name": "Engineering Measurements and Machines",
+		"Code": "ES1107",
+		"Scheme & Credits": "(3 0 4) 5",
+		"Faculty": "Pushpendra Singh, Yogesh, Bhargav"
+	},
+	{
+		"Course Name": "Management Perspectives",
+		"Code": "IL1101",
+		"Scheme & Credits": "(2 0 0) 2",
+		"Faculty": "Upasana Singh, IM faculty"
+	},
+	{
+		"Course Name": "Computational Engineering Analysis-I",
+		"Code": "ES1106",
+		"Scheme & Credits": "(3 1 2) 5",
+		"Faculty": "Jaya, Richa Sharma, HP Agarwal, JP Sharma, Amit Kumar"
+	},
+	{
+		"Course Name": "Electronic Devices and Circuits",
+		"Code": "EE1101",
+		"Scheme & Credits": "(3 0 2) 4",
+		"Faculty": "Milind Thomas"
+	},
+	{
+		"Course Name": "Materials Engineering",
+		"Code": "ME1101",
+		"Scheme & Credits": "(3 0 2) 4",
+		"Faculty": "Ravi Shankar Prasad"
+	},
+	{
+		"Course Name": "Engineering Thermodynamics",
+		"Code": "ME1102",
+		"Scheme & Credits": "(3 0 2) 4",
+		"Faculty": "Rajlakshmi Nayak "
+	},
+	{
+		"Course Name": "Perspectives on Contemporary Issues",
+		"Code": "CC1103",
+		"Scheme & Credits": "(2 0 1) 2",
+		"Faculty": "Shraddha Bhartiya, NF "
+	},
+	{
+		"Course Name": "C++ Programming and Data Structures",
+		"Code": "CS1122",
+		"Scheme & Credits": "(3 0 4) 5",
+		"Faculty": "Kshitiz Verma"
+	},
+	{
+		"Course Name": "Android Application Development",
+		"Code": "CS1123",
+		"Scheme & Credits": "(3 0 2) 4",
+		"Faculty": "Gaurav Raj"
+	},
+	{
+		"Course Name": "Statistical Computing",
+		"Code": "AS1106",
+		"Scheme & Credits": "(3 0 2) 4",
+		"Faculty": "Jaya"
+	},
+	{
+		"Course Name": "Computer Networks and Network Administration",
+		"Code": "CS1124",
+		"Scheme & Credits": "(2 0 4) 4",
+		"Faculty": "Devendra Bhavsar"
+	},
+	{
+		"Course Name": "Economics and Accounting",
+		"Code": "IL1104",
+		"Scheme & Credits": "(3 0 0) 3",
+		"Faculty": "Sarita Gupta"
+	},
+	{
+		"Course Name": "Operating Systems",
+		"Code": "CS1108",
+		"Scheme & Credits": "(3 0 2) 4",
+		"Faculty": "Gireesh Kumar"
+	},
+	{
+		"Course Name": "Artificial Intelligence and Machine Learning",
+		"Code": "CS1110",
+		"Scheme & Credits": "(3 0 2) 4",
+		"Faculty": "Alok Kumar"
+	},
+	{
+		"Course Name": "Introduction to IoT",
+		"Code": "EE1111",
+		"Scheme & Credits": "(1 0 2) 2",
+		"Faculty": "Divanshu Jain "
+	},
+	{
+		"Course Name": "Cloud Computing",
+		"Code": "CS1304",
+		"Scheme & Credits": "(3 0 2) 4",
+		"Faculty": "Amit Sinhal"
+	},
+	{
+		"Course Name": "Geotechnical Engineering",
+		"Code": "CE1108",
+		"Scheme & Credits": "(3 0 2) 4",
+		"Faculty": "Tanmoy Kr. Deb"
+	},
+	{
+		"Course Name": "Transportation Engineering",
+		"Code": "CE1109",
+		"Scheme & Credits": "(3 0 2) 4",
+		"Faculty": "Amit Kumar"
+	},
+	{
+		"Course Name": "Analog Circuits",
+		"Code": "EE1102",
+		"Scheme & Credits": "(3 0 2) 4",
+		"Faculty": "HP Agarwal"
+	},
+	{
+		"Course Name": "Analog and Digital Communications",
+		"Code": "EE1109",
+		"Scheme & Credits": "(3 0 2) 4",
+		"Faculty": "Milind Thomas"
+	},
+	{
+		"Course Name": "Theory of Machines",
+		"Code": "ME1108",
+		"Scheme & Credits": "(3 0 2) 4",
+		"Faculty": "Deepika Mishra "
+	},
+	{
+		"Course Name": "Production Technology-II",
+		"Code": "ME1109",
+		"Scheme & Credits": "(3 0 2) 4",
+		"Faculty": "Ravi Shankar Prasad"
+	},
+	{
+		"Course Name": "Understanding and Managing Conflict",
+		"Code": "CC1105",
+		"Scheme & Credits": "(2 0 0) 2",
+		"Faculty": "Richa Mishra"
+	},
+	{
+		"Course Name": "Mobile Application Development",
+		"Code": "CS1205",
+		"Scheme & Credits": "(3 0 2) 4 ",
+		"Faculty": "Gaurav Raj"
+	},
+	{
+		"Course Name": "Cryptography",
+		"Code": "CS1214",
+		"Scheme & Credits": "(3 0 2) 4 ",
+		"Faculty": "Suman Saha"
+	},
+	{
+		"Course Name": "Hydrology and Water Resources Engineering",
+		"Code": "CE1213",
+		"Scheme & Credits": "(4 0 0) 4",
+		"Faculty": "Kedar Sharma"
+	},
+	{
+		"Course Name": "Real Time Operating Systems",
+		"Code": "EE1214",
+		"Scheme & Credits": "(3 0 2) 4",
+		"Faculty": "Devika Kataria"
+	},
+	{
+		"Course Name": "Computer Integrated Manufacturing",
+		"Code": "ME1212",
+		"Scheme & Credits": "(3 0 2) 4",
+		"Faculty": "Deepika Mishra/Ravi Shankar Prasad"
+	},
+	{
+		"Course Name": "Big Data Engineering",
+		"Code": "CS1312",
+		"Scheme & Credits": "(3 0 2) 4",
+		"Faculty": "Alok Kumar"
+	},
+	{
+		"Course Name": "AI with IBM Watson",
+		"Code": "CS1314",
+		"Scheme & Credits": "(3 0 2) 4",
+		"Faculty": "Sonal Jain"
+	},
+	{
+		"Course Name": "Advanced Data Structures and Algorithms",
+		"Code": "CS1213",
+		"Scheme & Credits": "(3 0 2) 4",
+		"Faculty": "Santosh Kumar Verma"
+	},
+	{
+		"Course Name": "Blockchain Technology and Application",
+		"Code": "CS1203",
+		"Scheme & Credits": "(3 0 2) 4",
+		"Faculty": "S Taruna"
+	},
+	{
+		"Course Name": "Cross-Platform App Development",
+		"Code": "CS1215",
+		"Scheme & Credits": "(3 0 2) 4",
+		"Faculty": "Gaurav Raj"
+	},
+	{
+		"Course Name": "Machine Vision",
+		"Code": "EE1217",
+		"Scheme & Credits": "(3 0 2) 4",
+		"Faculty": "Devika Kataria"
+	},
+	{
+		"Course Name": "Information Theory and Coding",
+		"Code": "EE1218",
+		"Scheme & Credits": "(3 0 2) 4",
+		"Faculty": "Milind Thomas"
+	},
+	{
+		"Course Name": "Industrial Drive and E-Vehicle",
+		"Code": "EE1206",
+		"Scheme & Credits": "(3 0 2) 4",
+		"Faculty": "HP Agarwal"
+	},
+	{
+		"Course Name": "Advances in Power Delivery",
+		"Code": "EE1213",
+		"Scheme & Credits": "(3 0 2) 4",
+		"Faculty": "JP Sharma"
+	},
+	{
+		"Course Name": "Electrical Systems Design",
+		"Code": "EE1202",
+		"Scheme & Credits": "(3  0 2)  4",
+		"Faculty": "Pushpendra Singh/Yogesh Rohilla"
+	},
+	{
+		"Course Name": "Vehicle Aerodynamics",
+		"Code": "ME1213",
+		"Scheme & Credits": "(3 0 2) 4",
+		"Faculty": "Rajlakshmi Nayak"
+	},
+	{
+		"Course Name": "IC Engine",
+		"Code": "ME1201",
+		"Scheme & Credits": "(3 0 2) 4",
+		"Faculty": "Bhargav Prajwal"
+	},
+	{
+		"Course Name": "Natural Language Processing",
+		"Code": "CS2111",
+		"Scheme & Credits": "(3 0 2) 4",
+		"Faculty": "Kshitiz Verma"
+	},
+	{
+		"Course Name": "Industrial Robotics",
+		"Code": "IL2203",
+		"Scheme & Credits": "(3 0 2) 4",
+		"Faculty": "Mohd Zubair, Yogesh Rohilla"
+	},
+	{
+		"Course Name": "Urban and Regional Planning",
+		"Code": "CE1215",
+		"Scheme & Credits": "(3 1 0) 4",
+		"Faculty": "Kedar Sharma /Vinod Vishwakarma"
+	},
+	{
+		"Course Name": "Idea to Business Model",
+		"Code": "ED1102",
+		"Scheme & Credits": "(4 0 0) 4 ",
+		"Faculty": "Sheetal Mundra (IM) (with BBA)"
+	},
+	{
+		"Course Name": "Numerical and Scientific Computing",
+		"Code": "AS2202",
+		"Scheme & Credits": "(3 0 2) 4",
+		"Faculty": "Sandeep Kr Singh"
+	},
+	{
+		"Course Name": "Geographical Information System",
+		"Code": "CE1214",
+		"Scheme & Credits": "(3 0 2) 4",
+		"Faculty": "Kedar Sharma, Amit Kumar"
+	},
+	{
+		"Course Name": "Fintech in Retail Banking and Insurance",
+		"Code": "FN30",
+		"Scheme & Credits": "(3 0 0) 3",
+		"Faculty": "Praveen Arora (IM)   (with BBA)"
+	},
+	{
+		"Course Name": "Advanced Statistics",
+		"Code": "AS1202",
+		"Scheme & Credits": "(3 0 2) 4",
+		"Faculty": "Jaya Gupta"
+	},
+	{
+		"Course Name": "Cloud based Big Data System-I",
+		"Code": "CS2101",
+		"Scheme & Credits": "(3 0 2) 4",
+		"Faculty": "Alok Kumar"
+	},
+	{
+		"Course Name": "Machine Learning and Data Mining",
+		"Code": "CS2102",
+		"Scheme & Credits": "(3 0 4) 5",
+		"Faculty": "Amit Sinhal"
+	},
+	{
+		"Course Name": "Robotic Process Automation and Applications",
+		"Code": "CS2103",
+		"Scheme & Credits": "(3 0 4) 5",
+		"Faculty": "Gireesh Kumar"
+	},
+	{
+		"Course Name": "Advanced Algorithms",
+		"Code": "CS2202",
+		"Scheme & Credits": "(3 0 2) 4",
+		"Faculty": "Kshitiz Verma"
+	},
+	{
+		"Course Name": "Industrial Automation and IoT-I",
+		"Code": "EE2101",
+		"Scheme & Credits": "(3 0 2) 4",
+		"Faculty": "Pushpendra Singh/Yogesh Rohilla"
+	},
+	{
+		"Course Name": "Instrumentation and Embedded Systems Laboratory",
+		"Code": "EE2102",
+		"Scheme & Credits": "(0 0 4) 2",
+		"Faculty": "Divanshu Jain "
+	},
+	{
+		"Course Name": "Optimisation and Control",
+		"Code": "EE2104",
+		"Scheme & Credits": "(3 0 0) 3",
+		"Faculty": "Gustavo Sanchez"
+	},
+	{
+		"Course Name": "Project-I",
+		"Code": "PR2101",
+		"Scheme & Credits": "(2 0 0) 2",
+		"Faculty": "Yogesh, Shahnawaz, Kshitiz"
+	},
+	{
+		"Course Name": "Industrial Safety Management",
+		"Code": "ME2101",
+		"Scheme & Credits": "(3 0 4) 5",
+		"Faculty": "Jitendra Kr Singh"
+	},
+	{
+		"Course Name": "Statistical Data Analysis-I",
+		"Code": "AS2106",
+		"Scheme & Credits": "(3 0 4) 5",
+		"Faculty": "Sandeep Kr Singh"
+	},
+	{
+		"Course Name": "Critical Thinking for Developing Perspectives",
+		"Code": "CC2171",
+		"Scheme & Credits": "(2 0 0) 2",
+		"Faculty": "Richa Mishra"
+	},
+	{
+		"Course Name": "Industrial Waste Management",
+		"Code": "CE2201",
+		"Scheme & Credits": "(3 0 0) 4",
+		"Faculty": "Shahnawaz"
+	},
+	{
+		"Course Name": "Safety in Construction and Mining",
+		"Code": "CE2203",
+		"Scheme & Credits": "(3 0 0) 4",
+		"Faculty": "Vinod Kr. Vishawakarma"
+	},
+	{
+		"Course Name": "Environmental Impact Assessment",
+		"Code": "CE2205",
+		"Scheme & Credits": "(3 0 0) 4",
+		"Faculty": "Vinod Kr. Vishawakarma"
+	},
+	{
+		"Course Name": "Fire Engineering and Mangement",
+		"Code": "ME2201",
+		"Scheme & Credits": "(3 0 0) 4",
+		"Faculty": "Jitendra Kr Singh"
+	},
+	{
+		"Course Name": "Chemical Safety",
+		"Code": "ME2202",
+		"Scheme & Credits": "(3 0 0) 4",
+		"Faculty": "Jitendra Kr Singh"
+	},
+	{
+		"Course Name": "Large Scale Graph Analytics",
+		"Code": "CS2201",
+		"Scheme & Credits": "(3 0 2) 4",
+		"Faculty": "Suman Saha"
+	},
+	{
+		"Course Name": "Computational Game Theory and Applications",
+		"Code": "EE2202",
+		"Scheme & Credits": "(3 0 0) 4",
+		"Faculty": "Pushpendra Singh"
+	},
+	{
+		"Course Name": "Pedagogy",
+		"Code": "IL2102",
+		"Scheme & Credits": " (2 0 0) 2",
+		"Faculty": "Sanjay Goel"
+	},
+	{
+		"Course Name": "Research Methodology",
+		"Code": "IL2101",
+		"Scheme & Credits": "(2 0 0) 2",
+		"Faculty": "Sanjay Goel"
+	},
+	{
+		"Course Name": "Academic Writing",
+		"Code": "IL2103",
+		"Scheme & Credits": "(2 0 0)2",
+		"Faculty": "Gustavo, Sonal, Upasana"
+	},
+	{
+		"Course Name": ""
+	}
+]
